@@ -1,1 +1,13 @@
 <?xml version="1.0" encoding="windows-1251"?>
+<header>What_Where_When</header>
+<Summary>Description</Summary>
+<str>Steps to reproduce</str>
+<er>Expected_result</er>
+<r>Result</r>
+<environment>
+  <env_1>OS</env_1>
+  <env_2>Browser</env_2>
+</environment>
+<attachments>File</attachment>
+<severity>Critical</severity>
+<priority>High</priority>
