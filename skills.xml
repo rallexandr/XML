@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<web>
+	<sniffer_1>Charles<sniffer_1>
+	<sniffer_2>Fiddler</sniffer_2>
+	<tools>Chrome_dev_tools</tools>
+	<protocols>HTTP_HTTPS</protocols>
+</web>
+<documentstion>
+	<artefact_1>Test-case<artefact_1>
+	<artefact_2>Check-list<artefact_2>
+	<artefact_3>Bug-report</artefact_3>
+</documentation>
+<api>
+	<api_1>Apodoc</api1>
+	<api_2>RESTfull</api_2>
+	<api_2>Postman<api_3>
+</api>
+<types_of_testing>
+	<tot_1>Smoke</tot_1>
+	<tot_2>Regression</tot_2>
+	<tot_3>Critical_path</tot_3>
+	<tot_4>UAT<tot_4>
+</types_of_testing>
+
+
+
